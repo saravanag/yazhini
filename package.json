@@ -1,0 +1,23 @@
+{
+  "name": "yazhini",
+  "version": "1.0.0",
+  "description": "Sample",
+  "main": "index.js",
+  "scripts": {
+  	"test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saravanag/yazhini.git"
+  },
+  "author": "Saravanan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saravanag/yazhini/issues"
+  },
+  "homepage": "https://github.com/saravanag/yazhini#readme",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}
